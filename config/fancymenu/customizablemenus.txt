@@ -54,6 +54,9 @@ net.minecraft.client.gui.screens.CreditsAndAttributionScreen {
 net.minecraft.client.gui.screens.worldselection.CreateWorldScreen {
 }
 
+net.minecraft.client.gui.screens.LevelLoadingScreen {
+}
+
 net.minecraft.client.gui.screens.PauseScreen {
 }
 

@@ -1,4 +1,7 @@
 {
+  "toms_trading_network": {
+    "vending_machine": true
+  },
   "framedblocks": {
     "framed_item_frame": true,
     "framed_block_generic": true
