@@ -1,0 +1,20 @@
+{
+    "enabled": true,
+    "spawns": [
+      {
+        "id": "regidrago-1",
+        "pokemon": "regidrago",
+        "type": "pokemon",
+        "context": "grounded",
+        "bucket": "ultra-rare",
+        "level": "70",
+        "weight": 3.0,
+        "condition": {
+          "biomes": [
+            "#cobblemon:is_deep_dark"
+          ],
+          "maxY": 15
+        }
+      }
+    ]
+  }

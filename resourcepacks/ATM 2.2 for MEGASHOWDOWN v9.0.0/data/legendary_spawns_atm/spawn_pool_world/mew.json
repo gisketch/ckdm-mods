@@ -1,0 +1,31 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "mew-1",
+      "pokemon": "mew",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "60",
+      "weight": 2.5,
+      "condition": {
+        "biomes": [ 
+          "#cobblemon:is_floral", 
+          "#cobblemon:is_jungle" 
+        ],
+        "isRaining": false
+      },
+      "weightMultipliers": [
+        {
+            "multiplier": 4,
+            "condition": {
+              "timeRange": "noon"
+          }
+        }
+      ]
+    }
+  ]
+}
