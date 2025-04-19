@@ -1,0 +1,48 @@
+{
+	id: "36D9977835D1AE1B"
+	loot_size: 1
+	order_index: 2
+	rewards: [
+		{
+			id: "3DFFDB1F94A66AF2"
+			item: {
+				count: 1
+				id: "simplyswords:iron_longsword"
+			}
+			weight: 0.0f
+		}
+		{
+			id: "67FDDF64486BE84C"
+			item: {
+				count: 1
+				id: "minecraft:shield"
+			}
+			weight: 0.0f
+		}
+		{
+			id: "7919CEC5DCFF2FB3"
+			item: {
+				count: 1
+				id: "minecraft:iron_chestplate"
+			}
+			weight: 0.0f
+		}
+		{
+			id: "553C80D661F1B012"
+			item: {
+				count: 1
+				id: "minecraft:iron_helmet"
+			}
+			weight: 0.0f
+		}
+		{ id: "3C541D6CC17E58C4", item: { count: 1, id: "minecraft:iron_leggings" } }
+		{
+			id: "034FEE854FC48DCC"
+			item: {
+				count: 1
+				id: "minecraft:iron_boots"
+			}
+			weight: 0.0f
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	id: "59168708054058F5"
+	loot_size: 1
+	order_index: 4
+	rewards: [
+		{ count: 5, id: "09071E07189CA2EC" }
+		{ count: 5, id: "376D170839D4C62E" }
+		{ count: 5, id: "193C701E421D3A74" }
+	]
+}

@@ -1,0 +1,11 @@
+{
+	id: "4BA91680785439C1"
+	loot_size: 1
+	order_index: 5
+	rewards: [
+		{ id: "05A21B0D9D8B8A93" }
+		{ id: "05E5851CD14764DE", weight: 0.0f }
+		{ id: "0A0B084ABC81136B", weight: 0.0f }
+		{ id: "7392D4067AD49AE4" }
+	]
+}

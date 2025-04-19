@@ -1,0 +1,22 @@
+{
+  "general": {
+    "enable": false,
+    "debugDisplay": false
+  },
+  "movement": {
+    "enable": true,
+    "jump": true,
+    "sneak": "Maintain",
+    "dismount": false,
+    "textFieldDisables": true,
+    "unrecognizedScreenDefault": true
+  },
+  "background": {
+    "enable": true,
+    "hideOnPause": "Show",
+    "unrecognizedScreenDefault": true
+  },
+  "allowedKeysOverrides": {
+    "key.keybindbundles.bundle_cb4613a0-696e-47cc-a408-d0e4293f837d": false
+  }
+}

@@ -1,0 +1,139 @@
+# Duration of sandwich effects for each level in ticks (20 ticks = 1 second) (36000 = 30 minutes).
+sandwichEffectDurationLevel1 = 3600
+
+sandwichEffectDurationLevel2 = 3600
+
+sandwichEffectDurationLevel3 = 36000
+
+# Maximum number of concurrent sandwich effects allowed.
+maxConcurrentSandwichEffects = 3
+
+# Prevent eating another sandwich when the maximum number of effects are already active.
+preventEatingWithMaxEffects = true
+
+# Minimum and maximum scale modifiers for Pokemon sizes.
+# These values act as multipliers to the default Pokemon size. For example:
+# pokemonSizesMIN_SCALE = 0.8 means 80% of the normal size.
+# pokemonSizesMAX_SCALE = 1.2 means 120% of the normal size.
+pokemonSizesMIN_SCALE = 0.8
+
+pokemonSizesMAX_SCALE = 1.2
+
+# Settings for the Default scale distribution (when no sandwich powers are active).
+# This determines the percentage chance of a Pokemon spawning with a certain size.
+# defaultScale:  Represents a list of scales with associated probabilities.
+[defaultScale]
+XXXS = 0.006
+XXS = 2.998
+XS = 8.448
+S = 19.132
+M = 41.8
+L = 16.533
+XL = 10.447
+XXL = 0.63
+XXXL = 0.006
+
+# Settings for Teensy Power scale distribution.
+# This power drastically increases the chance of smaller Pokemon spawning.
+# teensyScale: Represents a list of scales with associated probabilities.
+[teensyScale.amplifier0]
+XXXS = 0.781
+XXS = 24.219
+XS = 47.657
+S = 27.343
+[teensyScale.amplifier1]
+XXXS = 1.042
+XXS = 32.292
+XS = 63.542
+S = 3.124
+[teensyScale.amplifier2]
+XXXS = 1.563
+XXS = 48.438
+XS = 95.313
+S = 4.686
+
+# Settings for Humungo Power scale distribution.
+# This power drastically increases the chance of larger Pokemon spawning.
+# humungoScale: Represents a list of scales with associated probabilities.
+[humungoScale.amplifier0]
+L = 25.781
+XL = 53.125
+XXXL = 89.063
+[humungoScale.amplifier1]
+L = 1.042
+XL = 37.5
+XXXL = 85.417
+[humungoScale.amplifier2]
+L = 0.0
+XL = 6.25
+XXXL = 78.125
+
+# Settings for Encounter Power weight multipliers.
+# Encounter Power forces a specific type of Pokémon to spawn, if possible.
+# The levels increase the chance of forcing the specified type:
+# Level 1: 50% chance to force spawn.
+# Level 2: 75% chance to force spawn.
+# Level 3: 100% chance to force spawn.
+[encounterPower]
+amplifier0 = 1.5
+amplifier1 = 1.75
+amplifier2 = 2.0
+defaultMultiplier = 2.0
+increasePerLevel = 0.5
+
+# Settings for Sparkling Power additional shiny rolls.
+# Sparkling Power increases the chance for Shiny Pokémon to appear by granting additional rolls.
+# Each level adds a number of extra chances to find a shiny Pokemon:
+# Level 1: 1 additional Shiny roll
+# Level 2: 2 additional Shiny rolls
+# Level 3: 3 additional Shiny rolls
+[sparklingPower]
+additionalRollsAmplifier0 = 1
+additionalRollsAmplifier1 = 2
+additionalRollsAmplifier2 = 3
+baseAdditionalRolls = 3
+extraRollsPerAmplifier = 1
+
+# Settings for Exp. Point Power.
+# Exp. Point Power increases the Experience received for defeating a specific type of Pokémon.
+# The levels provide the following multipliers:
+# Level 1: x1.1 bonus
+# Level 2: x1.3 bonus
+# Level 3: x1.5 bonus
+[experiencePower]
+additionalExpAmplifier0 = 1.1
+additionalExpAmplifier1 = 1.3
+additionalExpAmplifier2 = 1.5
+baseAdditionalExp = 1.5
+extraExpPerAmplifier = 0.5
+
+# Settings for Catching Power.
+# Catching Power increases the catch rate in battle.
+# Level 1: x1.1 bonus.
+# Level 2: x1.25 bonus.
+# Level 3: x2 bonus.
+[catchRatePower]
+additionalCatchRateAmplifier0 = 1.1
+additionalCatchRateAmplifier1 = 1.25
+additionalCatchRateAmplifier2 = 2.0
+baseAdditionalCatchRate = 2.0
+extraCatchRatePerAmplifier = 0.5
+
+# Settings for Item Drop Power.
+# Item Drop Power increases the chance for a specific type of Pokémon to drop 1 additional item.
+# The levels increase the chance of the extra drop:
+# Level 1: 25% increase
+# Level 2: 50% increase
+# Level 3: 100% increase
+[itemDropPower]
+additionalItemDropAmplifier1 = 1.5
+additionalItemDropAmplifier2 = 2.0
+baseAdditionalItemDrop = 2.0
+extraItemDropPerAmplifier = 0.5
+
+# Enables or disables debug mode. When enabled, more detailed information is printed.
+debugMode = false
+
+# Enables or disables experimental settings. Turning this on might result in undocumented changes and should only be used in a development environment to compare results.
+experimentalSettings = false
+

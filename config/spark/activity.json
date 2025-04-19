@@ -1,0 +1,28 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "gisketch",
+      "uniqueId": "157896ba-bd34-4c67-a25d-4f641d7a764c"
+    },
+    "time": 1744359161259,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/F6PRuOb8fB"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "gisketch",
+      "uniqueId": "157896ba-bd34-4c67-a25d-4f641d7a764c"
+    },
+    "time": 1742915819776,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/dBQ6a70UD1"
+    }
+  }
+]

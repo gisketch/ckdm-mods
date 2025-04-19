@@ -1,0 +1,11 @@
+==== Connector Mixin Patch Audit Summary ====
+Successful: 0
+Partial: 0
+Failed: 1
+Success rate: .00%        Accuracy: .00%
+=============================================
+
+=============== Failed mixins ===============
+xyz/eclipseisoffline/customtimecycle/mixin/MinecraftServerMixin	broadcastCustomTimeRules(Lnet/minecraft/server/players/PlayerList;Lnet/minecraft/network/protocol/Packet;Lnet/minecraft/resources/ResourceKey;Lnet/minecraft/server/level/ServerLevel;)V
+=============================================
+

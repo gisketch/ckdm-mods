@@ -1,0 +1,12 @@
+entityShadows:false
+fov:0.5
+fovEffectScale:1.0
+gamma:1.0
+graphicsMode:0
+maxFps:260
+mipmapLevels:1
+particles:1
+reducedDebugInfo:false
+renderClouds:"true"
+renderDistance:6
+simulationDistance:6

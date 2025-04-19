@@ -1,0 +1,13 @@
+{
+	id: "4855DC4A6BBD6D16"
+	loot_size: 1
+	order_index: 7
+	rewards: [
+		{ count: 3, id: "77729D7E9514C36D" }
+		{ count: 3, id: "626A1A7B7AB6D985" }
+		{ count: 3, id: "711A643C3767A5C5" }
+		{ count: 3, id: "61AD2AB88974569A" }
+		{ count: 3, id: "4B502790044040BF" }
+		{ id: "79FFDD8ECC8A9355" }
+	]
+}

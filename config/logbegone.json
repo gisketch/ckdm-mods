@@ -1,0 +1,14 @@
+{
+  "logbegone": {
+    "phrases": [
+      "Disconnecting VANILLA connection attempt",
+      "Channels ",
+      "OpenGL debug message:"
+    ],
+    "regex": [
+      "Disconnecting VANILLA connection attempt",
+      "Channels ",
+      "*OpenGL debug message:*"
+    ]
+  }
+}

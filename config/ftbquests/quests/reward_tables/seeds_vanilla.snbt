@@ -1,0 +1,13 @@
+{
+	id: "76A199A0E16DBD4F"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{ id: "4F83A16D43181B7B", weight: 0.0f }
+		{ id: "06F59690E6DD5B33", weight: 0.0f }
+		{ id: "0F3419FA3E8E63CE", weight: 0.0f }
+		{ id: "46F86F6029F96075", weight: 0.0f }
+		{ id: "797B7BD3A3283E65", weight: 0.0f }
+		{ id: "73DEEE85B2386274" }
+	]
+}

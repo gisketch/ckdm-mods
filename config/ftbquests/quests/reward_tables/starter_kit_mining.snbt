@@ -1,0 +1,21 @@
+{
+	id: "00F566263E9C393C"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{
+			id: "3A3DB11C7D26FAB2"
+			item: {
+				count: 1
+				id: "minecraft:iron_pickaxe"
+			}
+			weight: 0.0f
+		}
+		{
+			count: 64
+			id: "4FDBB1050AE39F1C"
+			weight: 0.0f
+		}
+		{ count: 16, id: "64D5EC9754DFA850" }
+	]
+}

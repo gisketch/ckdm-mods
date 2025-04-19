@@ -1,0 +1,15 @@
+["SPECIAL HAMMERS"]
+	#Magma hammer abilities
+	"Magma hammer" = true
+	#Obsidian hammer abilities
+	"Obsidian hammer" = true
+	#Steel hammer abilities
+	"Steel hammer" = true
+	#Amethyst hammer abilities
+	"Amethyst hammer" = true
+
+[GENERAL]
+	#Special hammers can be enchanted
+	"Enchants on special hammers" = false
+	#Disable the possibility to start with the help book 
+	"Help book on start " = true

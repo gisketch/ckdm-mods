@@ -1,0 +1,20 @@
+#Whether to show offline players in the player list
+showOfflinePlayers = true
+#Whether to gray out offline players in the player list
+grayOutOffline = true
+#Stats to display in the player list
+#Available stats:
+#playtime - Total play time
+#deaths - Number of deaths
+#distance - Distance walked (km)
+#jumps - Jump count
+#dmgDealt - Damage dealt
+#dmgTaken - Damage taken
+#lastSeen - Time since last seen
+visibleStats = ["playtime", "deaths", "distance", "jumps", "dmgDealt", "dmgTaken", "lastSeen"]
+#How often to update player stats (in ticks, 20 ticks = 1 second)
+# Default: 100
+# Range: 20 ~ 6000
+updateFrequency = 100
+#Whether to use compact mode (shorter stat names and values)
+compactMode = false

@@ -1,0 +1,73 @@
+{
+	hide_tooltip: true
+	id: "64816B06183607F9"
+	loot_size: 1
+	order_index: 11
+	rewards: [
+		{ count: 2, id: "32488C0481B3E6B2" }
+		{ count: 2, id: "33A354E60E6EB6F2" }
+		{ count: 2, id: "3D621BD931FCCC50" }
+		{ count: 2, id: "74FDFA57E79C4B7E" }
+		{ count: 2, id: "781E3753F85904D3" }
+		{ count: 2, id: "7E8FDAF9025B19FF" }
+		{ count: 2, id: "2584F532BB49E52E" }
+		{ count: 2, id: "299D088497509C85" }
+		{ count: 2, id: "5D739E9669628873" }
+		{ count: 2, id: "0BFBBAEAC88653AF" }
+		{ count: 2, id: "4994D95ABB2C1346" }
+		{ count: 2, id: "02DC117353F88245" }
+		{ count: 2, id: "1485FC7D89DB70F3" }
+		{ count: 2, id: "1A4C708C2A2E0874" }
+		{ count: 2, id: "229D138D92032D8A" }
+		{ count: 2, id: "2DFBE1E2F8C8400D" }
+		{ count: 2, id: "13666D95DAAB718A" }
+		{ count: 2, id: "0C1D219A656B23F3" }
+		{ count: 2, id: "3518FC2C4C26738E" }
+		{ count: 2, id: "1802D4B0014455EE" }
+		{ count: 2, id: "1F7EE1DAE4F150C7" }
+		{ count: 2, id: "1C03E03305F00C13" }
+		{ count: 2, id: "59579ADAED63F29F" }
+		{ count: 2, id: "585D757EDCC005F9" }
+		{ count: 2, id: "3F7C20411760CF93" }
+		{ count: 2, id: "7FCF489A62BF9793" }
+		{ count: 2, id: "38AF0F6B5DD7C099" }
+		{ count: 2, id: "6893B6C1636B2FAB" }
+		{ count: 2, id: "4DAA1E0B2E8F68B6" }
+		{ count: 2, id: "606BE7DA136D06AA" }
+		{ count: 2, id: "031411990FD9B153" }
+		{ count: 2, id: "3A7E63CB6EA653A4" }
+		{ count: 2, id: "149A44E04F711D53" }
+		{ count: 2, id: "32775FB78BC1EFF4" }
+		{ count: 2, id: "7F5E50396C01F460" }
+		{ count: 2, id: "69B21C7F23FE7146" }
+		{ count: 2, id: "3108D8D882C2675E" }
+		{ count: 2, id: "2E2C1BFB82A057D9" }
+		{ count: 2, id: "5494454E1B033AE6" }
+		{ count: 2, id: "092FC861E68EEB40" }
+		{ count: 2, id: "5F4372AB03062735" }
+		{ count: 2, id: "66CF02ED7D5A7884" }
+		{ count: 2, id: "05B75297F951DFAB" }
+		{ count: 2, id: "26B6FB6A7782BBD0" }
+		{ count: 2, id: "0DE9A7769BD6DC67" }
+		{ count: 2, id: "395DA5DBFF0F1921" }
+		{ count: 2, id: "046CFE09D07BA6CE" }
+		{ count: 2, id: "4EDAE319F568C3A6" }
+		{ count: 2, id: "36BA7C99D0D1AA65" }
+		{ count: 2, id: "0C7DCE53A67446C0" }
+		{ count: 2, id: "608C6B200662FDA1" }
+		{ count: 2, id: "10AFA6BFD9831B1D" }
+		{ count: 2, id: "7CF4EF0D942EB044" }
+		{ count: 2, id: "7491BACD5267BC6A" }
+		{ count: 2, id: "1F3B07547D6F6D2B" }
+		{ count: 2, id: "2FD78536CEFBB3C1" }
+		{ count: 2, id: "4088E1623EEB04CD" }
+		{ count: 2, id: "67841F049B8FF1F5" }
+		{ count: 2, id: "4CBDB9566196235A" }
+		{ count: 2, id: "4F30BF7F3A0135C0" }
+		{ count: 2, id: "37B54EF6E8852D54" }
+		{ count: 2, id: "356B8FE4FA35753E" }
+		{ count: 2, id: "7EB0702487AEA401" }
+		{ count: 2, id: "7544DF76DCD18B80" }
+		{ count: 2, id: "5D7EC484C9871AE7" }
+	]
+}

@@ -1,0 +1,4 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"simplyswords:diamond_katana","components":{"minecraft:enchantments":{"levels":{"enchantplus:sword/critical":3}}}},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
