@@ -1,11 +1,11 @@
 {
   "configVersion": 2,
-  "enabledByDefault": true,
+  "enabledByDefault": false,
   "xOffset": 0,
   "sneakXOffset": 0,
   "sitXOffset": 0,
   "renderStuckFeatures": true,
-  "vanillaHandsMode": "ITEMS",
+  "vanillaHandsMode": "ALL",
   "dynamicMode": true,
   "vanillaHandsSkipSwimming": true,
   "autoVanillaHands": [
