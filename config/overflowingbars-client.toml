@@ -55,7 +55,7 @@
 	move_chat_above_armor = true
 	#Show colorful icons on the front row, not just on all subsequent rows.
 	#Default Value: false
-	colorize_first_row = false
+	colorize_first_row = true
 	#Add layers to this bar. When disabled any modifications to the bar from this mod will be turned off.
 	#Default Value: true
 	allow_layers = true

@@ -5,46 +5,46 @@ abilityAbsorptionCap = 20.0
 [harbinger]
 chance = 15
 cooldown = 700
-damage = 3.0
-spellScaling = 1.2
+damage = 1.0
+spellScaling = 0.5
 
 [arcanethyst]
-chance = 25
-cooldown = 220
-damage = 1.0
-duration = 120
-radius = 6
-spellScaling = 1.4
+chance = 12
+cooldown = 300
+damage = 0.5
+duration = 60
+radius = 4
+spellScaling = 0.5
 
 [caelestis]
-chance = 5
+chance = 3
 cooldown = 420
-damageMax = 300.0
+damageMax = 150.0
 damageModifier = 1.0
 duration = 100
 
 [bramblethorn]
-chance = 45
+chance = 25
 
 [brimstone_claymore]
-chance = 15
+chance = 10
 
 [stars_edge]
 cooldown = 120
-duration = 120
-damageModifier = 0.4
-lifestealModifier = 0.1
-stacks = 6
+duration = 30
+damageModifier = 0.3
+lifestealModifier = 0.05
+stacks = 3
 
 [emberblade]
-chance = 30
-duration = 150
+chance = 15
+duration = 60
 
 [flamewind]
 cooldown = 980
-damage = 5.0
-spellScaling = 0.4
-detonationDamage = 15.0
+damage = 3.0
+spellScaling = 0.2
+detonationDamage = 10.0
 maxHaste = 10
 spreadCap = 6
 
@@ -56,73 +56,73 @@ enigmaDecayRate = 2
 [whisperwind]
 chance = 15
 cooldown = 175
-maxStacks = 99
+maxStacks = 25
 radius = 3
 dashVelocity = 3.0
 
 [twisted_blade]
 chance = 75
 duration = 100
-maxStacks = 15
+maxStacks = 5
 strengthTier = 2
 
 [wickpiercer]
 damage = 1.0
-duration = 80
+duration = 50
 
 [frostfall]
-chance = 25
+chance = 15
 cooldown = 3
-damage = 11.0
-pulseDamage = 11.0
+damage = 5.0
+pulseDamage = 5.0
 duration = 80
 radius = 8.0
-spellScaling = 1.4
+spellScaling = 0.5
 
 [livyatan]
-returnDamage = 8.0
-damage = 8.0
+returnDamage = 3.0
+damage = 3.0
 duration = 100
 radius = 0.5
 spellScaling = 1.7
 
 [hiveheart]
 cooldown = 60
-damage = 1.1
+damage = 0.5
 duration = 450
 
 [magiblade]
 cooldown = 35
-damageModifier = 0.7
+damageModifier = 0.4
 repelChance = 55
 repelRadius = 4.0
 sonicDistance = 16.0
 
 [magispear]
 cooldown = 20
-damageModifier = 2.0
+damageModifier = 0.5
 radius = 4.0
 magicChance = 35
 magicModifier = 2.0
 
 [magiscythe]
 cooldown = 980
-damage = 3.0
+damage = 1.0
 duration = 400
 radius = 4.0
 repairChance = 0.25
-spellScaling = 0.5
+spellScaling = 0.35
 
 [molten_edge]
 chance = 15
 cooldown = 320
 duration = 100
-knockbackStrength = 5.0
+knockbackStrength = 3.5
 radius = 5.0
 
 [icewhisper]
 cooldown = 600
-damage = 1.0
+damage = 0.5
 duration = 200
 radius = 4
 spellScaling = 0.9
@@ -132,45 +132,45 @@ chance = 55
 
 [ribboncleaver]
 cooldown = 40
-damageBonusPercent = 0.95
+damageBonusPercent = 0.4
 resilienceAmplifier = 1
 
 [sunfire]
 chance = 15
 cooldown = 700
-damage = 3.0
-spellScaling = 1.1
-spellScalingHeal = 1.3
+damage = 1.25
+spellScaling = 0.5
+spellScalingHeal = 0.5
 
 [shadowsting]
 chance = 25
 cooldown = 200
-damageMulti = 0.8
+damageMulti = 0.4
 radius = 4
 blindDuration = 60
 
 [stormbringer]
 cooldown = 90
-damage = 12.0
-spellScaling = 2.3
+damage = 5.0
+spellScaling = 2.0
 blockDuration = 35
 parryDuration = 10
 
 [emberlash]
 cooldown = 80
-heal = 15.0
-maxStacks = 5
+heal = 5.0
+maxStacks = 3
 spellScaling = 0.4
 
 [lichblade]
 absorptionCap = 8
 cooldown = 700
-damage = 6.0
+damage = 3.0
 duration = 200
 heal = 0.5
 radius = 3
 range = 22.0
-spellScaling = 1.6
+spellScaling = 0.8
 
 [soulkeeper]
 chance = 75
@@ -183,13 +183,13 @@ duration = 500
 maxStacks = 2
 radius = 10.0
 healMulti = 0.5
-damageMulti = 1.5
+damageMulti = 1.25
 spellScaling = 0.4
 
 [soulpyre]
 pulseCount = 10
 radius = 12.0
-damage = 11.0
+damage = 5.0
 heal = 1
 cooldown = 400
 
@@ -197,7 +197,7 @@ cooldown = 400
 chance = 25
 duration = 400
 radius = 30.0
-spellScaling = 2.6
+spellScaling = 1.25
 blindDuration = 200
 invisDuration = 120
 
@@ -215,14 +215,14 @@ cooldown = 100
 [thunderbrand]
 chance = 15
 cooldown = 250
-damage = 3.0
+damage = 1.5
 radius = 2
 spellScaling = 1.7
 
 [hearthflame]
 chance = 25
 cooldown = 300
-damage = 3.0
+damage = 1.5
 radius = 3
 spellScaling = 1.4
 
@@ -249,10 +249,10 @@ hasteAmplifier = 1
 duration = 80
 
 [voidcaller]
-damageModifier = 1.0
+damageModifier = 0.8
 duration = 250
 corruptionFrequency = 60
-corruptionPerTick = 1.0
+corruptionPerTick = 0.5
 corruptionDuration = 1200
-corruptionMax = 100.0
+corruptionMax = 50.0
 startingTickFrequency = 12
