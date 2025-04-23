@@ -13,7 +13,7 @@
 	#These slots are ignored when changing rows/slots (slots are counted 0, 1, 2...8)
 	#
 	#Add/remove a slot by holding the swap slot key then hitting the swap row key
-	ignoredSlots = [5]
+	ignoredSlots = []
 	#The scale for the item when rendering a possible swap
 	# Default: 0.65
 	# Range: 0.0 ~ 2.0
