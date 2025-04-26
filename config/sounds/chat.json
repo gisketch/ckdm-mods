@@ -21,7 +21,8 @@
 		"soundEvent": "minecraft:block.note_block.chime"
 	},
 	"mentionKeywords": [
-		"@gisketch"
+		"@gisketch",
+		"@Habuccino"
 	],
 	"ignoreSystemChats": false,
 	"enableChatSoundCooldown": false,

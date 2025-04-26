@@ -124,8 +124,8 @@
   "waystones": {
     "waystone": true
   },
-  "corpse": {
-    "corpse": true
+  "gravestone": {
+    "grave": true
   },
   "powerscale": {
     "mob": true,

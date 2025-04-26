@@ -136,7 +136,8 @@
     "dynamicIcons": {
       "45.59.168.68": "https://api.mcsrvstat.us/icon/45.59.168.68",
       "default": "https://via.placeholder.com/256.png",
-      "gisketch": "https://mc-heads.net/avatar/157896babd344c67a25d4f641d7a764c"
+      "gisketch": "https://mc-heads.net/avatar/157896babd344c67a25d4f641d7a764c",
+      "Habuccino": "https://mc-heads.net/avatar/c8bd38db51794e0f9eb1ad1185a2b9b9"
     },
     "dynamicVariables": {
       "default": "Example Text",
