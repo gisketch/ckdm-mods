@@ -6,10 +6,10 @@ configVersion = 2
 
 	# Toggles all of the mod's features.
 	# Default: true
-	enabled = false
+	enabled = true
 	# Disable this to make the mod's effects exclusive to first-person view.
 	# Default: true
-	enableInThirdPerson = true
+	enableInThirdPerson = false
 	# Sensitivity of the camera roll rotation caused by turning around horizontally.
 	# Default: 1.0
 	turningRollAccumulation = 1.0

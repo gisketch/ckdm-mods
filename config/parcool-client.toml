@@ -52,14 +52,14 @@
 	offset_v_light_hud = 0
 
 [Animations]
+	#Enable first-person-view animations
+	enable_fpv_animation = false
 	#Enable custom animations
 	enable_animation = true
 	#Enable custom animation of falling
 	enable_falling_animation = true
 	#Enable lean animation while FastRun
 	enable_lean_animation_fast_run = true
-	#Enable first-person-view animations
-	enable_fpv_animation = false
 	#Enable rotation of camera by Dodge
 	enable_camera_rotation_dodge = false
 	#Enable rotation of camera by Backward Wall-Jump
@@ -76,8 +76,6 @@
 	enable_camera_animation_hang-down = true
 
 	[Animations.Animators]
-		enable_FastSwimAnimator = false
-		enable_FastRunningAnimator = false
 		enable_BackwardWallJumpAnimator = true
 		enable_CatLeapAnimator = true
 		enable_ChargeJumpAnimator = true
@@ -87,6 +85,8 @@
 		enable_DiveAnimationHostAnimator = true
 		enable_DiveIntoWaterAnimator = true
 		enable_DodgeAnimator = true
+		enable_FastRunningAnimator = true
+		enable_FastSwimAnimator = true
 		enable_FlippingAnimator = true
 		enable_HorizontalWallRunAnimator = true
 		enable_JumpChargingAnimator = true
@@ -194,6 +194,9 @@
 	used_stamina = "PARCOOL"
 
 	[Stamina.Consumption]
+		#Infinite Stamina (this needs a permission from server, even if it is on single player's game. normally permitted)
+		#Please check 'parcool-server.toml' in 'serverconfig' directory
+		infinite_stamina = true
 		# Default: 0
 		# Range: 0 ~ 10000
 		stamina_consumption_of_BreakfallReady = 0
@@ -266,6 +269,3 @@
 		# Default: 8
 		# Range: 0 ~ 10000
 		stamina_consumption_of_WallSlide = 8
-		#Infinite Stamina (this needs a permission from server, even if it is on single player's game. normally permitted)
-		#Please check 'parcool-server.toml' in 'serverconfig' directory
-		infinite_stamina = false

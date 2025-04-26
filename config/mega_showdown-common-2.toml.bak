@@ -18,3 +18,11 @@ teralization = true
 tradeForm = false
 #Enables etermax eternus forme
 etermaxForme = true
+#Enables/Disables dmax in game
+dynamax = true
+#Allows you to dynamax anywhere you dont need to be near the dynamax area
+dynamaxAnywhere = false
+#Range around a power spot where Dynamax is allowed.
+# Default: 20
+# Range: 0 ~ 10000
+powerSpotRange = 20
