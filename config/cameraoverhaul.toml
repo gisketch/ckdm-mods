@@ -6,7 +6,7 @@ configVersion = 2
 
 	# Toggles all of the mod's features.
 	# Default: true
-	enabled = true
+	enabled = false
 	# Disable this to make the mod's effects exclusive to first-person view.
 	# Default: true
 	enableInThirdPerson = true

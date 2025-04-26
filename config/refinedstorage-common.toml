@@ -42,7 +42,7 @@ autocraftingNotification = true
 	# Range: 0 ~ 9223372036854775807
 	energyUsage = 10
 	synchronizer = "refinedstorage_jei_integration:jei_two_way"
-	resourceType = "refinedstorage:item"
+	resourceType = ""
 	#Allowed Values: ASCENDING, DESCENDING
 	sortingDirection = "DESCENDING"
 	#Allowed Values: QUANTITY, NAME, ID, LAST_MODIFIED
