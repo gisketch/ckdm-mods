@@ -130,6 +130,9 @@
   "corpse": {
     "corpse": true
   },
+  "barbequesdelight": {
+    "grill": true
+  },
   "powerscale": {
     "mob": true,
     "alchemy_set": true

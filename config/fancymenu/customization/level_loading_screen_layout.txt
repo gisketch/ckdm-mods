@@ -3,23 +3,18 @@ type = fancymenu_layout
 layout-meta {
   identifier = level_loading_screen
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1745071588432
+  last_edited_time = 1746420380155
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:2f8cc8a9-53ef-4f91-8586-38353b6a0cbc-1745071565407] = [groups:][instances:]
+  [loading_requirement_container_meta:2c7a53b0-7938-4b37-9fc3-f5b62a49b1dc-1746420374319] = [groups:][instances:]
 }
 
 menu_background {
-  image_path = [source:local]/config/fancymenu/assets/resources/bg.png
-  slide = false
-  repeat_texture = false
-  parallax = false
-  parallax_intensity = 0.02
-  invert_parallax = false
-  background_type = image
+  slideshow_name = cool_slideshow
+  background_type = slideshow
 }
 
 customization {

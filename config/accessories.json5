@@ -9,7 +9,7 @@
 	},
 	"screenOptions": {
 		"selectedScreenType": "EXPERIMENTAL_V1",
-		"showUnusedSlots": false,
+		"showUnusedSlots": true,
 		"allowSlotScrolling": true,
 		"inventoryButtonOffset": {
 			"x": 66,

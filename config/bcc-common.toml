@@ -7,7 +7,7 @@
 	#The name of the modpack
 	modpackName = "Chowkingdom"
 	#The version of the modpack
-	modpackVersion = "4.26b"
+	modpackVersion = "5.5a"
 	#Use the metadata.json to determine the modpack version
 	#ONLY ENABLE THIS IF YOU KNOW WHAT YOU ARE DOING
 	useMetadata = false

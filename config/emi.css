@@ -103,7 +103,7 @@
 	/**
 	 * Whether the EMI config button should be visible.
 	 */
-	emi-config-button-visibility: shown;
+	emi-config-button-visibility: hidden;
 
 	/**
 	 * Whether the recipe tree button should be visible.

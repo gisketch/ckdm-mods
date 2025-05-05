@@ -5,12 +5,13 @@ overridden_screens {
 
 custom_gui {
   identifier = welcomescreen_update
-  title = What's New?
+  title = 
   allow_esc = true
   transparent_world_background = true
   transparent_world_background_overlay = false
   pause_game = true
 }
+
 custom_gui {
   identifier = welcomescreen_welcome
   title = 
@@ -19,3 +20,4 @@ custom_gui {
   transparent_world_background_overlay = false
   pause_game = true
 }
+
