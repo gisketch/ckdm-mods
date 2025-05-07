@@ -183,8 +183,6 @@
 	compass_right_click = false
 	#Renders an enchantment glint on placeable enchanted booksNote that turning this on will make book piles use tile renderer instead of baked models making them slower to render
 	placeable_books_glint = false
-	#Placeable books random colors
-	placeable_books_random_colors = ["brown", "orange", "yellow", "red", "green", "lime", "cyan", "blue", "purple"]
 	#Enables banner pattern tooltip image preview
 	banner_pattern_tooltip = true
 	#Enables paintings tooltip image preview
@@ -199,6 +197,8 @@
 	mob_head_shaders = true
 	#Sends your current chat when you die while typing
 	send_chat_on_death = true
+	#Placeable books random colors
+	placeable_books_random_colors = ["brown", "orange", "yellow", "red", "green", "lime", "cyan", "blue", "purple"]
 
 	[tweaks.colored_maps]
 		#Needs the server config with same name on. If on here it will ignore the server one and keep vanilla colors

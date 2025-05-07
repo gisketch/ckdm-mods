@@ -6,8 +6,6 @@ exampleBoolean = true
 exampleInt = 42
 #This is an example string property
 exampleString = "Hello World"
-#This is an example multiline string property
-exampleMultilineString = "Hello World"
 #This is an example enum property
 #Allowed Values: Hello, World
 exampleEnum = "Hello"
@@ -19,6 +17,8 @@ exampleResourceLocationSet = ["minecraft:diamond", "minecraft:dirt"]
 exampleIntList = [12, 24]
 #This is an example enum list property
 exampleEnumList = ["Hello", "World"]
+#This is an example multiline string property
+exampleMultilineString = "Hello World"
 
 [exampleCategory]
 	#This is an example category
