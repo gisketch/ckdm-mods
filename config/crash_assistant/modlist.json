@@ -547,6 +547,10 @@
     "modId": "displaydelight",
     "version": "1.2.0"
   },
+  "DistantHorizons-neoforge-fabric-2.3.2-b-1.21.1.jar": {
+    "modId": "distanthorizons",
+    "version": "2.3.2-b"
+  },
   "distraction_free_recipes-neoforge-1.2.1-1.21.1.jar": {
     "modId": "distraction_free_recipes",
     "version": "1.2.1"

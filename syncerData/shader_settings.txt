@@ -1,0 +1,2 @@
+potato_name=ComplementaryReimagined_r5.5.1.zip
+default_name=ComplementaryReimagined_r5.5.1 + EuphoriaPatches_1.6.1
