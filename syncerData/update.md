@@ -6,6 +6,7 @@
 - Changelog feature
 - New shader setting feature
 - Better logs
+- Now open-source! https://github.com/gisketch/mc-modpack-syncer
 
 ### 🎮 Chowkingdom Client
 
