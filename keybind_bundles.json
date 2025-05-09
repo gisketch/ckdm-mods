@@ -1,0 +1,118 @@
+[
+  {
+    "id": "07aa0cb7-f086-464c-8d16-ac816491d80b",
+    "name": "Default",
+    "entries": [
+      {
+        "key": "key.cobblemon.summary",
+        "title": "My Pokemon",
+        "icon": {
+          "id": "cobblemon:poke_ball",
+          "count": 1
+        }
+      },
+      {
+        "key": "gui.xaero_new_waypoint",
+        "title": "New Waypoint",
+        "icon": {
+          "id": "minecraft:map",
+          "count": 1
+        }
+      },
+      {
+        "key": "key.cobblemonboxlink.open_pc.desc",
+        "title": "Open PC Storage",
+        "icon": {
+          "id": "cobblemon:pc",
+          "count": 1
+        }
+      },
+      {
+        "key": "key.openNotes",
+        "title": "Open Notes",
+        "icon": {
+          "id": "minecraft:book",
+          "count": 1
+        }
+      },
+      {
+        "key": "key.voice_chat",
+        "title": "Voice Chat",
+        "icon": {
+          "id": "computercraft:computer_normal",
+          "count": 1
+        }
+      },
+      {
+        "key": "key.playertrade.trade_key",
+        "title": "Trade",
+        "icon": {
+          "id": "chowkingdom:gold_chowcoin",
+          "count": 1
+        }
+      },
+      {
+        "key": "key.mega_showdown.mega_evo",
+        "title": "Mega Evolve",
+        "icon": {
+          "id": "mega_showdown:gardevoirite",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "438e6fb9-e30f-4199-aeed-e7e26283c774",
+    "name": "2",
+    "entries": [
+      {
+        "key": "iris.keybind.toggleShaders",
+        "title": "Toggle Shaders",
+        "icon": {
+          "id": "exposure:camera",
+          "count": 1
+        }
+      },
+      {
+        "key": "key.do_a_barrel_roll.toggle_enabled",
+        "title": "Toggle DaBR",
+        "icon": {
+          "id": "minecraft:elytra",
+          "count": 1
+        }
+      },
+      {
+        "key": "key.wands.wand_menu",
+        "title": "Wand Menu",
+        "icon": {
+          "id": "wands:diamond_wand",
+          "count": 1
+        }
+      },
+      {
+        "key": "key.wands.clear_wand",
+        "title": "Clear Wand",
+        "icon": {
+          "id": "wands:stone_wand",
+          "count": 1
+        }
+      },
+      {
+        "key": "chunksfadein.keybinds.toggleMod",
+        "title": "Chunk Fading",
+        "icon": {
+          "id": "minecraft:grass_block",
+          "count": 1
+        }
+      },
+      {
+        "key": "key.wands.wand_undo",
+        "title": "Undo",
+        "icon": {
+          "id": "wands:creative_wand",
+          "count": 1
+        }
+      }
+    ]
+  }
+]
