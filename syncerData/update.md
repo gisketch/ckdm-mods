@@ -1,17 +1,17 @@
-# Changes
+# 📝 Changes
 
-### Modpack Syncer
+### 🔄 Modpack Syncer
 
 - Updated version to v1.3
 - Changelog feature
 - New shader setting feature
 - Better logs
 
-### Chowkingdom Client
+### 🎮 Chowkingdom Client
 
 - Loading Screens now don't show UI elements
 
-# Updates
+# ⬆️ Updates
 
 - Waystones and Balm
   - Hopefully fixes the issue with trash slot
@@ -25,7 +25,7 @@
 - Cobblemon: Mega Showdown
 - RadicalCobblemonTrainers
 
-# Added
+# 🟢 Added
 
 - Crash Assistant
   - Easier to get logs when crashing
@@ -34,7 +34,7 @@
 - Keybundles
   - Press G or F6! (Must have sync keybinds enabled)
 
-# Removed
+# 🔴 Removed
 
 - Deeper and Darker
 - Create: Trimmed
