@@ -1,5 +1,5 @@
 #Put quiver preview near the center of the screen, rather than edge of the screen
-previewOnCenter = true
+previewOnCenter = false
 #Show arrow quick swap when switching to a bow
 popupArrowOnSwitch = true
 #Show tool quick swap when switching to a tool

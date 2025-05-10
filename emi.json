@@ -1,6 +1,7 @@
 {
   "favorites": [],
   "lookup_history": [
+    "item:l2backpack:arrow_bag",
     "item:l2backpack:dimensional_storage_light_blue",
     "item:l2backpack:dimensional_storage_black",
     "item:l2backpack:dimensional_storage_purple",
@@ -24,7 +25,6 @@
     "item:l2complements:sun_membrane",
     "item:l2complements:shulkerate_block",
     "item:l2complements:poseidite_block",
-    "item:l2backpack:arrow_bag",
     "item:l2backpack:ender_drawer",
     "item:l2backpack:drawer",
     "item:l2complements:shulkerate_sword",
@@ -74,6 +74,7 @@
     "item:advancednetherite:netherite_diamond_shovel"
   ],
   "craft_history": [
+    "l2backpack:arrow_bag",
     "basketball:hoop_recipe",
     "basketball:basketball_recipe",
     "minecraft:orange_dye_from_bwg_dye_tag"
