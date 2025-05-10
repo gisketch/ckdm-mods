@@ -794,10 +794,6 @@
     "modId": "highlighter",
     "version": "1.1.11"
   },
-  "holdmyitems-1.21.1-NeoForge-1.0.4.jar": {
-    "modId": "holdmyitems",
-    "version": "1.0.4"
-  },
   "HotbarSwapper-1.21-NeoForge-1.0.2.jar": {
     "modId": "hotbarswapper",
     "version": "1.0.2"
@@ -922,6 +918,22 @@
   "kubejs-neoforge-2101.7.1-build.181.jar": {
     "modId": "kubejs",
     "version": "2101.7.1-build.181"
+  },
+  "l2archery-3.0.3.jar": {
+    "modId": "l2archery",
+    "version": "3.0.3"
+  },
+  "l2backpack-3.0.15.jar": {
+    "modId": "l2backpack",
+    "version": "3.0.15"
+  },
+  "l2complements-3.0.12.jar": {
+    "modId": "l2complements",
+    "version": "3.0.12"
+  },
+  "l2library-3.0.5.jar": {
+    "modId": "l2library",
+    "version": "3.0.5"
   },
   "L_Ender\u0027s Cataclysm-2.65-1.21.1.jar": {
     "modId": "cataclysm",
@@ -1423,10 +1435,6 @@
     "modId": "sodium",
     "version": "0.6.13+mc1.21.1"
   },
-  "sodium-shadowy-path-blocks-neoforge-4.0.0.jar": {
-    "modId": "sspb",
-    "version": "4.0.0"
-  },
   "sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar": {
     "modId": "sodiumdynamiclights",
     "version": "1.0.9"
@@ -1534,10 +1542,6 @@
   "TAB v5.2.0 1.20.5-1.21.1.jar": {
     "modId": "tab",
     "version": "5.2.0"
-  },
-  "TalkBalloons-NeoForge-1.21.1-1.1.6.jar": {
-    "modId": "talk_balloons",
-    "version": "1.1.6"
   },
   "tcdcommons-3.12.7+fabric-1.21.jar": {
     "modId": "tcdcommons",

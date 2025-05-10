@@ -1,0 +1,14 @@
+noItemSplatterOnDeath = true
+noDeathItemDespawn = true
+tryItemLavaSaveOnDeath = true
+tryItemVoidSaveOnDeath = true
+explosionResistantItems = true
+playerDropMoreXpOnDeath = true
+# Default: 80
+# Range: 1 ~ 100
+droppedExperiencePercent = 80
+keepArmorOnDeath = false
+keepHotbarOnDeath = false
+#Allowed Values: ALL, LIST, NONE
+keepAccessories = "NONE"
+accessoryKeepList = []
