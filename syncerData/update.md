@@ -1,42 +1,72 @@
 # 📝 Changes
 
-### 🔄 Modpack Syncer
+### ⬆️ Updates
 
-- Updated version to v1.3
-- Changelog feature
-- New shader setting feature
-- Better logs
-- Now open-source! https://github.com/gisketch/mc-modpack-syncer
+- CobbleDollars
+- MegaShowdown
+- CobbleLoots
+- Cobblemon Utility
+- Cobblemon Fight or Flight
+- Cobblemon Spawn Notification
+- Cobblemon Unchained
 
-### 🎮 Chowkingdom Client
+### 🟢 Added
 
-- Loading Screens now don't show UI elements
+- New Dimension: **Mirrored Overworld**
+- 48 New Pokemon Models! _(Full list below)_
+- Terralith
+- LittlePictureFrames
+- ChatImage
+- Generators Galore
+- Create: Protection Pixel
 
-# ⬆️ Updates
+### 🐶 New Pokemon Models
 
-- Waystones and Balm
-  - Hopefully fixes the issue with trash slot
-- Accessories
-  - Hopefully fixes ghosting item bugs on death
-- Create: Simple Generators
-  - Fixes the server log errors when closing the server
-- Simply Swords
-- Better Combat
-- Simple Voice Chat
-- Cobblemon: Mega Showdown
-- RadicalCobblemonTrainers
-
-# 🟢 Added
-
-- Crash Assistant
-  - Easier to get logs when crashing
-- Better FPS
-  - Renders chunks in a circular radius instead of square (less chunks to render = more fps)
-- Keybundles
-  - Press G or F6! (Must have sync keybinds enabled)
-
-# 🔴 Removed
-
-- Deeper and Darker
-- Create: Trimmed
-- Stellaris
+- Furfrou
+- Shaymin
+- Grumpig
+- Spoink
+- Togepi
+- Togetic
+- Togekiss
+- Seviper
+- Zangoose
+- Oranguru
+- Passimian
+- Wurmple
+- Silcoon
+- Cascoon
+- Beautifly
+- Dustox
+- Snover
+- Abomasnow
+- Cobalion
+- Terrakion
+- Skwovet
+- Greedent
+- Silicobra
+- Sandaconda
+- Cursola
+- Pansage
+- Simisage
+- Pansear
+- Simisear
+- Panpour
+- Simipour
+- Blitzle
+- Zebstrika
+- Tympole
+- Palpitoad
+- Seismitoad
+- Tympole
+- Palpitoad
+- Seismitoad
+- Trubbish
+- Garbodor
+- Vanillite
+- Vanillish
+- Vanilluxe
+- Stunfisk
+- Virizion
+- Chewtle
+- Drednaw

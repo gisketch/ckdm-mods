@@ -171,10 +171,6 @@
     "modId": "betterf1",
     "version": "1.1"
   },
-  "betterfpsdist-1.21-6.0.jar": {
-    "modId": "betterfpsdist",
-    "version": "6.0"
-  },
   "BetterGrassify-1.6.0+neoforge.1.21.1.jar": {
     "modId": "bettergrass",
     "version": "1.6.0+neoforge.1.21.1"
@@ -211,6 +207,10 @@
     "modId": "wands",
     "version": "2.8.3"
   },
+  "bwncr-neoforge-1.21.1-3.20.3.jar": {
+    "modId": "bwncr",
+    "version": "3.20.3"
+  },
   "c2me-neoforge-mc1.21.1-0.3.0+alpha.0.60.jar": {
     "modId": "c2me",
     "version": "0.3.0+alpha.0.60+1.21.1"
@@ -246,6 +246,10 @@
   "chat_heads-0.13.18-neoforge-1.21.jar": {
     "modId": "chat_heads",
     "version": "0.13.18"
+  },
+  "ChatImage-1.4.7+1.21.0+neoforge.jar": {
+    "modId": "chatimage",
+    "version": "1.4.7+1.21.0+neoforge"
   },
   "ChatImpressiveAnimation-neoforge-1.3.1+mc1.21.5.jar": {
     "modId": "chatimpressiveanimation",
@@ -287,17 +291,17 @@
     "modId": "mr_cobbled_armourtrims",
     "version": "1.1"
   },
-  "CobbleDollars-neoforge-2.0.0+Beta-3+1.21.1.jar": {
+  "CobbleDollars-neoforge-2.0.0+Beta-4+1.21.1.jar": {
     "modId": "cobbledollars",
-    "version": "2.0.0+Beta-3+1.21.1"
+    "version": "2.0.0+Beta-4+1.21.1"
   },
   "CobbleFurnies-neoforge-0.5.jar": {
     "modId": "cobblefurnies",
     "version": "0.5"
   },
-  "cobbleloots-neoforge-2.0.5.jar": {
+  "cobbleloots-neoforge-2.0.6.jar": {
     "modId": "cobbleloots",
-    "version": "2.0.5"
+    "version": "2.0.6"
   },
   "cobblemon-capturexp-1.6-neoforge-1.0.1.jar": {
     "modId": "capture_xp",
@@ -311,21 +315,21 @@
     "modId": "cobblemon",
     "version": "1.6.1+1.21.1"
   },
-  "cobblemon-spawn-notification-1.6-neoforge-1.0.1.jar": {
+  "cobblemon-spawn-notification-1.6-neoforge-1.3.4.jar": {
     "modId": "spawn_notification",
-    "version": "1.6-neoforge-1.0.1"
+    "version": "1.6-neoforge-1.3.4"
   },
-  "cobblemon-unchained-1.6-neoforge-1.0.2.jar": {
+  "cobblemon-unchained-1.6-neoforge-1.1.0.jar": {
     "modId": "unchained",
-    "version": "1.6-neoforge-1.0.2"
+    "version": "1.6-neoforge-1.1.0"
   },
-  "Cobblemon-Utility+-neoforge-1.5.jar": {
+  "Cobblemon-Utility+-neoforge-1.6.jar": {
     "modId": "cobblemon_utility",
-    "version": "1.5"
+    "version": "1.6"
   },
-  "Cobblemon_MegaShowdown-9.4.3-release-neoforge.jar": {
+  "Cobblemon_MegaShowdown-9.6.0-beta-d-neoforge.jar": {
     "modId": "mega_showdown",
-    "version": "9.4.3-release-neoforge"
+    "version": "9.6.0-beta-d-neoforge"
   },
   "cobblemonboxlink-neoforge-1.21.1-1.0.4.jar": {
     "modId": "cobblemonboxlink",
@@ -522,10 +526,6 @@
   "CreeperOverhaul-neoforge-1.21.1-4.0.6.jar": {
     "modId": "creeperoverhaul",
     "version": "4.0.6"
-  },
-  "cupboard-1.21-2.9(1).jar": {
-    "modId": "cupboard",
-    "version": "2.9"
   },
   "deathbackup-1.21.1-3.5.jar": {
     "modId": "deathbackup",
@@ -734,9 +734,9 @@
     "modId": "ferritecore",
     "version": "7.0.2"
   },
-  "fightorflight-neoforge-0.7.7.jar": {
+  "fightorflight-neoforge-0.7.9.jar": {
     "modId": "fightorflight",
-    "version": "0.7.7"
+    "version": "0.7.9"
   },
   "flerovium-neoforge-1.21.1-1.0.4-all.jar": {
     "modId": "flerovium",
@@ -906,6 +906,10 @@
     "modId": "kleeslabs",
     "version": "21.1.3"
   },
+  "Kleiders Custom Renderer API 7.2.0 1.21.1.jar": {
+    "modId": "kleiders_custom_renderer",
+    "version": "7.2.0"
+  },
   "konkrete_neoforge_1.9.9_MC_1.21.jar": {
     "modId": "konkrete",
     "version": "1.9.9"
@@ -970,6 +974,10 @@
   "lithium-neoforge-0.15.0+mc1.21.1.jar": {
     "modId": "lithium",
     "version": "0.15.0+mc1.21.1"
+  },
+  "LittleFrames_NEOFORGE_v1.4.5_mc1.21.1.jar": {
+    "modId": "littleframes",
+    "version": "1.4.5"
   },
   "livelierpokemon-neoforge-2.0.4+1.21.1.jar": {
     "modId": "livelierpokemon",
@@ -1059,6 +1067,10 @@
     "modId": "modernfix",
     "version": "5.21.0+mc1.21.1"
   },
+  "mods_optimizer-neoforge-1.21.1-4.1.0.jar": {
+    "modId": "mods_optimizer",
+    "version": "4.1.0"
+  },
   "monolib-neoforge-1.21.1-2.0.0.jar": {
     "modId": "monolib",
     "version": "2.0.0"
@@ -1118,6 +1130,10 @@
   "Neruina-2.3.1-beta.1-neoforge+1.21.jar": {
     "modId": "neruina",
     "version": "2.3.1-beta.1"
+  },
+  "netherportalfix-neoforge-1.21.1-21.1.1.jar": {
+    "modId": "netherportalfix",
+    "version": "21.1.1"
   },
   "NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar": {
     "modId": "nochatreports",
@@ -1271,6 +1287,10 @@
     "modId": "prism",
     "version": "1.0.11"
   },
+  "protection_pixel-1.9.4-neoforge-1.21.1.jar": {
+    "modId": "protection_pixel",
+    "version": "1.9.4"
+  },
   "PuzzlesLib-v21.1.33-1.21.1-NeoForge.jar": {
     "modId": "puzzleslib",
     "version": "21.1.33"
@@ -1314,6 +1334,10 @@
   "refinedstorage-neoforge-2.0.0-beta.1.jar": {
     "modId": "refinedstorage",
     "version": "2.0.0-beta.1"
+  },
+  "reforgedplaymod-1.21.1-0.3.jar": {
+    "modId": "reforgedplaymod",
+    "version": "0.3"
   },
   "refurbished_furniture-neoforge-1.21.1-1.0.12.jar": {
     "modId": "refurbished_furniture",
@@ -1547,6 +1571,10 @@
     "modId": "terrablender",
     "version": "4.1.0.8"
   },
+  "terrablenderfix-neoforge-1.21.1-0.0.1.jar": {
+    "modId": "terrablenderfix",
+    "version": "0.0.1"
+  },
   "the_bumblezone-7.8.8+1.21.1-neoforge.jar": {
     "modId": "the_bumblezone",
     "version": "7.8.8+1.21.1-neoforge"
@@ -1638,6 +1666,10 @@
   "wakes-0.4.1+1.21.1.jar": {
     "modId": "wakes",
     "version": "0.4.1+1.21.1"
+  },
+  "watermedia-2.1.24.jar": {
+    "modId": "watermedia",
+    "version": "2.1.24"
   },
   "watut-neoforge-1.21.0-1.2.7.jar": {
     "modId": "watut",

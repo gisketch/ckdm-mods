@@ -177,7 +177,7 @@
 	"minimum_melee_attack_interval": 1.0,
 	// The maximum time between pokemons melee attacks. In seconds.
 	"maximum_melee_attack_interval": 3.0,
-	// Minimum damage wild pokemon will do with ranged attacks
+	// Minimum damage wild pokemon would do with ranged attacks
 	"minimum_ranged_attack_damage": 1.0,
 	// Maximum damage wild pokemon would do with ranged attacks
 	"maximum_ranged_attack_damage": 50.0,

@@ -4,11 +4,12 @@
   "captureStreakPoints": 1,
   "captureCountPoints": 0,
   "thresholds": {
-    "5": 1,
-    "10": 2,
-    "20": 3,
-    "30": 4
+    "5": 1.0,
+    "10": 2.0,
+    "20": 3.0,
+    "30": 4.0
   },
+  "defaultValue": 1.0,
   "debug": false,
   "blacklist": [],
   "whitelist": [],
