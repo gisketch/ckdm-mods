@@ -1,0 +1,23 @@
+{
+   "pokemon.azurill.cry": {
+       "sounds": ["cobblemon:pokemon/azurill/azurill_cry"]
+   },
+   "pokemon.marill.cry": {
+       "sounds": ["cobblemon:pokemon/marill/marill_cry"]
+   },
+   "pokemon.azumarill.cry": {
+       "sounds": ["cobblemon:pokemon/azumarill/azumarill_cry"]
+   },
+   "pokemon.ironhands.cry": {
+       "sounds": ["cobblemon:pokemon/ironhands/ironhands_cry"]
+   },
+   "pokemon.growlithe_hisuian.cry": {
+       "sounds": ["cobblemon:pokemon/growlithe_hisuian/growlithe_cry"]
+   },
+   "pokemon.arcanine_hisuian.cry": {
+       "sounds": ["cobblemon:pokemon/arcanine_hisuian/arcanine_cry"]
+   },
+   "pokemon.seviper.cry": {
+       "sounds": ["cobblemon:pokemon/seviper/seviper_cry"]
+   }
+}

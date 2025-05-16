@@ -1,0 +1,65 @@
+{
+  "portraitScale": 2.5,
+  "portraitTranslation": [-0.45, 3.75, 0.0],
+  "profileScale": 0.6,
+  "profileTranslation": [-0.15, 1, 0.0],
+  "animations": {
+    "recoil": "q.bedrock_stateful('mewtwo2', 'recoil')",
+    "physical": "q.bedrock_primary('mewtwo2', 'physical', q.curve('symmetrical_wide'))",
+    "special": "q.bedrock_primary('mewtwo2', 'special_wip', q.curve('symmetrical_wide'))",
+    "status": "q.bedrock_primary('mewtwo2', 'status', q.curve('symmetrical_wide'))"
+  },
+  "poses": { 
+    "battle-standing": {
+      "poseTypes": ["STAND"],
+      "isBattle": true,
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('mewtwo2', 'battle_idle')",
+        "q.bedrock('mewtwo2', 'tail_layer')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('mewtwo2', 'blink')"
+      ]
+    },
+    "standing": {
+      "poseTypes": ["STAND", "NONE", "PORTRAIT", "FLOAT", "PROFILE"],
+      "isBattle": false,
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('mewtwo2', 'ground_idle')",
+        "q.bedrock('mewtwo2', 'tail_layer')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('mewtwo2', 'blink')"
+      ]
+    },
+    "walking": {
+      "poseTypes": ["WALK", "SWIM"],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('mewtwo2', 'ground_walk')",
+        "q.bedrock('mewtwo2', 'tail_layer')"
+      ],
+      "quirks": ["q.bedrock_quirk('mewtwo2', 'blink')"]
+    },
+    "float": {
+      "poseTypes": ["HOVER"],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('mewtwo2', 'air_idle')",
+        "q.bedrock('mewtwo2', 'tail_layer')"
+      ],
+      "quirks": ["q.bedrock_quirk('mewtwo2', 'blink')"]
+    },
+    "fly": {
+      "poseTypes": ["FLY"],
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('mewtwo2', 'air_fly')",
+        "q.bedrock('mewtwo2', 'tail_layer')"
+      ],
+      "quirks": ["q.bedrock_quirk('mewtwo2', 'blink')"]
+    }
+  }
+}

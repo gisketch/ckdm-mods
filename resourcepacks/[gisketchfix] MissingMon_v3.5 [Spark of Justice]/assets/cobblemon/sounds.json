@@ -1,0 +1,20 @@
+{
+    "pokemon.rotom.cry": {
+        "sounds": ["cobblemon:pokemon/rotom/rotom_cry"]
+    },
+	"pokemon.rotom_heat.cry": {
+        "sounds": ["cobblemon:pokemon/rotom/rotom_cry"]
+    },
+	"pokemon.rotom_frost.cry": {
+        "sounds": ["cobblemon:pokemon/rotom/rotom_cry"]
+    },
+	"pokemon.rotom_fan.cry": {
+        "sounds": ["cobblemon:pokemon/rotom/rotom_cry"]
+    },
+	"pokemon.rotom_wash.cry": {
+        "sounds": ["cobblemon:pokemon/rotom/rotom_cry"]
+    },
+	"pokemon.rotom_mow.cry": {
+        "sounds": ["cobblemon:pokemon/rotom/rotom_cry"]
+    }
+}
