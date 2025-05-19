@@ -9,7 +9,8 @@
 
 ### 🟢 Added
 
-- None
+- CobbleCuisine
+- Cobblemon Firework Capsules
 
 ### ❌ Removed
 

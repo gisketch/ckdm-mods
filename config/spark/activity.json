@@ -5,6 +5,19 @@
       "name": "gisketch",
       "uniqueId": "157896ba-bd34-4c67-a25d-4f641d7a764c"
     },
+    "time": 1747666706889,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/4XHvJxzSIY"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "gisketch",
+      "uniqueId": "157896ba-bd34-4c67-a25d-4f641d7a764c"
+    },
     "time": 1747311905324,
     "type": "Profiler (live)",
     "data": {

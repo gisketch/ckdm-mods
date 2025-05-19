@@ -287,6 +287,10 @@
     "modId": "cobbleboom",
     "version": "1.4"
   },
+  "CobbleCuisine-1.2.jar": {
+    "modId": "cobblecuisine",
+    "version": "1.2"
+  },
   "cobbled-armour-trims-1.1.jar": {
     "modId": "mr_cobbled_armourtrims",
     "version": "1.1"
@@ -318,6 +322,10 @@
   "cobblemon-spawn-notification-1.6-neoforge-1.3.4.jar": {
     "modId": "spawn_notification",
     "version": "1.6-neoforge-1.3.4"
+  },
+  "cobblemon-ui-tweaks-1.0.7(1).jar": {
+    "modId": "cobblemon-ui-tweaks",
+    "version": "1.0.7"
   },
   "cobblemon-unchained-1.6-neoforge-1.1.0.jar": {
     "modId": "unchained",
@@ -706,6 +714,10 @@
     "modId": "extremesoundmuffler",
     "version": "3.49"
   },
+  "fabric-language-kotlin-1.13.3+kotlin.2.1.21.jar": {
+    "modId": "fabric-language-kotlin",
+    "version": "1.13.3+kotlin.2.1.21"
+  },
   "fancymenu_neoforge_3.4.6_MC_1.21.1.jar": {
     "modId": "fancymenu",
     "version": "3.4.6"
@@ -741,6 +753,10 @@
   "fightorflight-neoforge-0.7.9.jar": {
     "modId": "fightorflight",
     "version": "0.7.9"
+  },
+  "fireworkcapsules-neoforge-1.0.0+1.21.1+hotfix.jar": {
+    "modId": "fireworkcapsules",
+    "version": "1.0.0+1.21.1+hotfix"
   },
   "flerovium-neoforge-1.21.1-1.0.4-all.jar": {
     "modId": "flerovium",
@@ -1638,10 +1654,6 @@
   "UniLib-1.0.5+1.21.1-neoforge.jar": {
     "modId": "unilib",
     "version": "1.0.5"
-  },
-  "vinurl-1.6.0+mc1.21.1.jar": {
-    "modId": "vinurl",
-    "version": "1.6.0"
   },
   "VisualWorkbench-v21.1.0-1.21.1-NeoForge.jar": {
     "modId": "visualworkbench",
