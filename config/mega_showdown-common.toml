@@ -35,3 +35,5 @@ showdownFilesLoading = true
 disableTeraShardDrop = false
 #Enables/Disables dmax in game
 mega = true
+#Enable/Disable mega pokemons form reverting when battle starts
+revertMegas = true

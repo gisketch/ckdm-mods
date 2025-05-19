@@ -22,7 +22,16 @@ etermaxForme = true
 dynamax = true
 #Allows you to dynamax anywhere you dont need to be near the dynamax area
 dynamaxAnywhere = false
-#Range around a power spot where Dynamax is allowed.
+#Range around a power spot where Dynamax is allowed
 # Default: 20
 # Range: 0 ~ 10000
 powerSpotRange = 20
+#By how many times should the pokemon size increase when g/dmaxing
+# Default: 4
+# Range: 0 ~ 10000
+dynamaxScaleFactor = 4
+# Enable/Disable loading of showdown files from the mod, 
+# note this means once you load the game and the showdown changes have been affected you disable
+# this it will stop overwriting it ever load, this is for people who want to edit showdown 
+# but can't since mega showdown keeps overriding the files
+showdownFilesLoading = true
