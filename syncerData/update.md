@@ -1,5 +1,7 @@
 # 📝 Changes
 
+## Sync Config Recommended!
+
 ## ✨ **New Feature: Advanced In-Game Scoreboard System** ✨
 
 I've rolled out a new, custom-developed scoreboard system that integrates directly into Chowkingdom.
