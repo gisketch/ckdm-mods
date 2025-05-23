@@ -1,0 +1,30 @@
+# Ignore everything
+*
+
+# Except these folders and files
+!config
+!config/**
+!resourcepacks
+!resourcepacks/**
+!shaderpacks
+!shaderpacks/**
+!mods
+!mods/**
+!potato
+!potato/**
+!options.txt
+!kubejs
+!kubejs/**
+!keybind_bundles.json
+!syncerData/**
+!syncerData
+!emi.json
+
+
+# Ignore large mod files
+mods/.connector
+mods/.connector/**
+mods/Cobblemon-neoforge-1.6.1*.*
+config/discord-screenshot-sender.json
+resourcepacks/CobbleSounds*.*
+config/more_cobblemon_tweaks.json
